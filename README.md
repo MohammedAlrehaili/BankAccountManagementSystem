@@ -144,4 +144,8 @@ Run the executable:
 
 ./BankSystem
 
+Username: Admin
+
+Password: 1234
+
 Developed by: Mohammed Alrehaili
