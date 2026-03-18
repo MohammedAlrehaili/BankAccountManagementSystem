@@ -135,14 +135,12 @@ Logic Design: Procedural modularity with clear separation of concerns between me
 # 🚀 Installation & Setup
 Clone the repository:
 
-Bash
 git clone [https://github.com/MohammedAlrehaili/BankAccountManagementSystem.git]
 Compile the source code:
 
-Bash
 g++ main.cpp -o BankSystem
 Run the executable:
 
-Bash
 ./BankSystem
+
 Developed by: Mohammed Alrehaili
