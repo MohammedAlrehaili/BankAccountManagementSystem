@@ -136,6 +136,7 @@ Logic Design: Procedural modularity with clear separation of concerns between me
 Clone the repository:
 
 git clone [https://github.com/MohammedAlrehaili/BankAccountManagementSystem.git]
+
 Compile the source code:
 
 g++ main.cpp -o BankSystem
